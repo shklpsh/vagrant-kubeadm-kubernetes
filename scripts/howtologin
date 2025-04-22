@@ -1,0 +1,4 @@
+ssh -i /cygdrive/d/Wiki/CCC-Containers/K8sCluster/vagrant-kubeadm-kubernetes/.vagrant/machines/node01/virtualbox/private_key vagrant@127.0.0.1 -p 2200
+  ssh -i /cygdrive/d/Wiki/CCC-Containers/K8sCluster/vagrant-kubeadm-kubernetes/.vagrant/machines/node02/virtualbox/private_key vagrant@127.0.0.1 -p 2201
+  ssh -i /cygdrive/d/Wiki/CCC-Containers/K8sCluster/vagrant-kubeadm-kubernetes/.vagrant/machines/controlplane/virtualbox/private_key vagrant@127.0.0.1 -p 2222
+  
